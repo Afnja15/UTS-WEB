@@ -1,0 +1,13 @@
+.banner {
+  background: url("img/old-black-background-grunge-texture-dark-wallpaper-blackboard-chalkboard-room-wall.jpg") no-repeat center center;
+  background-size: cover;
+  padding-top: 5%;
+  padding-bottom: 20%;
+  color: #fff;
+}
+.p {
+  padding-top: 2rem;
+  color: aliceblue;
+  padding-bottom: 2rem;
+  font-size: 0.9em;
+}
